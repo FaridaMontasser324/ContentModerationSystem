@@ -61,4 +61,4 @@ This system demonstrates how rule-based filters and ML models can work together 
 
 You can explore data preprocessing, feature extraction, and ML model training directly in Google Colab:
 
-🔗 Open Content Moderation Colab Notebook
+🔗https://colab.research.google.com/drive/1SJ93OCgjYg4UefHi-8Kg9Fb0ZQEG4p_S?usp=sharing
