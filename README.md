@@ -1,6 +1,5 @@
-:
-
 🛡️ Content Moderation System
+
 📌 Project Overview
 
 The Content Moderation System automatically classifies and filters user-generated content using machine learning techniques.
@@ -15,6 +14,7 @@ This system demonstrates how rule-based filters and ML models can work together 
 🟢 Safe content
 
 🏗️ System Architecture
+
 1️⃣ Text Preprocessing Module
 
 ✨ Text normalization and cleaning
